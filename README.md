@@ -6,6 +6,10 @@
 | :------: | :--------------------: | :------------------:|
 | ![Home Tab](images-tableau-views/tableau-dashboard-summary-image.png) | ![Overview Tab](images-tableau-views/tableau-dashboard-overview-image.png) | ![Details](images-tableau-views/tableau-dashboard-details-image.png)
 
+## 🌐 View Dashboard Online
+
+👉 [**View the Interactive Tableau Dashboard**](https://public.tableau.com/app/profile/sameera.tanveer/viz/Project-3-Bank-Loan-Analysis-Report/Summary)
+
 ## Project Background and Overview of the Project
 ### Project Background: 
 In today's dynamic financial landscape, effective management of lending activities is crucial for the success and sustainability of any financial institution. 
