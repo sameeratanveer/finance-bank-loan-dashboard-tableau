@@ -1,5 +1,11 @@
 # Project 3 - Bank Loan Analysis Report (Tableau Public)
 
+## 📌 Quick Preview
+
+| Summary | Overview | Details
+| :------: | :--------------------: | :------------------:|
+| ![Home Tab](images-tableau-views/tableau-dashboard-summary-image.png) | ![Overview Tab](images-tableau-views/tableau-dashboard-overview-image.png) | ![Details](images-tableau-views/tableau-dashboard-details-image.png)
+
 ## Project Background and Overview of the Project
 ### Project Background: 
 In today's dynamic financial landscape, effective management of lending activities is crucial for the success and sustainability of any financial institution. 
@@ -21,7 +27,7 @@ This project serves as a strategic tool, enabling stakeholders to maintain a hea
 - ** Tableau Public Dashboard ** : [View Dashboard] (https://public.tableau.com/app/profile/sameera.tanveer/viz/Project-3-Bank-Loan-Analysis-Report/Summary)
 
 ## Data Structure: 
-![alt text](image.png)
+![alt text](images-tableau-views/dataset-image.png)
 
 The dataset used in the project contains 24 features and 38,576 rows, representing detailed information about loans, borrowers, and their repayment history. 
 These features are grouped into the following categories:
@@ -85,7 +91,7 @@ This dataset offers a comprehensive view of loan applications and their performa
 
 The Bank Loan Analysis provides valuable insights into lending patterns, profitability, and borrower behavior. 
 Here are the key findings: 
-![alt text](dashboard1.png)
+![alt text](images-tableau-views/tableau-dashboard-summary-image.png)
 
 1. ##### Month-over-Month Trends:
    
@@ -105,7 +111,7 @@ Here are the key findings:
    
     a.	Borrowers with lower DTI ratios and interest rates are highly likely to have good loans, emphasizing the importance of evaluating these metrics during loan approval
 
-![alt text](dashboard2.png)
+![alt text](images-tableau-views/tableau-dashboard-overview-image.png)
 
 1. ##### Regional Insights:
    
